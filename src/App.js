@@ -6,7 +6,7 @@ class App extends Component {
   state = {  }
   render() { 
     return ( 
-      <div>aplikacja</div>
+      <div>aplikacja1</div>
      );
   }
 }
